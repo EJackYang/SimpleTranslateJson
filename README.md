@@ -1,0 +1,2 @@
+# SimpleTranslateJson
+Bakeup SimpleTranslateJson Setting
